@@ -1,2 +1,2 @@
 # quantify
-Quantify - a financial tool-kit for Java
+Quantify - a financial tool-kit as Java Library
